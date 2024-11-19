@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **berkantC93@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/berkant-calikusu-ab9107194/details/experience/](https://www.linkedin.com/in/berkant-calikusu-ab9107194/details/experience/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
