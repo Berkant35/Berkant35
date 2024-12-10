@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkant Çalıkuşu</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Audiotodo AI](https://apps.apple.com/tr/app/audiotodo-ai/id6504488151)
 
-- 🌱 I’m currently learning **Kotlin**
-
-- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **berkantC93@gmail.com**
 
